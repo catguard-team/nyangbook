@@ -46,3 +46,20 @@
 ## 기여
 
 부품 가격 변동·새 모델 출시·국내 유통처 정보는 [`BOM.md`](./BOM.md) PR 환영. 가격은 **국내 일반 유통가 (쿠팡/네이버/디바이스마트)** 기준.
+
+---
+
+## 🧭 자경단 문서 지도
+
+모든 자경단 문서 한눈에: [`.github/DOCS-MAP.md`](https://github.com/catguard-team/.github/blob/main/DOCS-MAP.md)
+
+관련 레포:
+- 📡 이 레포 (`nyangbook`) — 하드웨어 보급
+- 🐾 [`saenoyangi-handbook`](https://github.com/catguard-team/saenoyangi-handbook) — 낥북으로 학습하는 트랙들
+- 🍯 [`kkulzam-spot/linux/`](https://github.com/catguard-team/kkulzam-spot) — 라즈베리파이 꿀팁
+
+---
+
+<div align="center">
+  <sub>동네에 굴러다니는 부품부터 · <strong>냐-옥.</strong></sub>
+</div>
